@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #fcf8ec;
+}
+.Title{
+    border: 1px solid rgb(209, 0, 0);
+    margin: 10px 0 0 50%;
+    width:15%;
+    text-align: center;
+}
+img {
+    margin: 20px 0 5px 50%;
+}
+.Table {
+    border: 1px solid red;
+    margin-left: 25%;
+}
+.Trow {
+    padding: 5px;
+}
+form input {
+    margin-left: 25%;
+    margin: 20px 0 0 25%;
+}
+form label{
+    margin-left: 25%;
+    margin: 20px 0 0 25%;
+}
+form textarea{
+    margin-left: 25%;
+    margin: 20px 0 0 25%;
+}
